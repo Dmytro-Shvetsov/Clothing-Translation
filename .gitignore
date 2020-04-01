@@ -1,8 +1,10 @@
 *.csv
 *.gz
 *.tar
+*.log
 
 .ipynb_checkpoints
 
 images/
 models/
+
